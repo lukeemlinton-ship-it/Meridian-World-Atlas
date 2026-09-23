@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Meridian",
+      "hasCanvas": false,
+      "bodyTextLen": 1121,
+      "bodyTextHash": "6d95c9229c40cd693581d5bdec752d004af520106d6b978b3514155f15cb0ef7",
+      "bodyTextPrefix": "Meridian WORLD ATLAS Explore Saved Route All City Nature Culture",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Meridian",
+      "hasCanvas": false,
+      "bodyTextLen": 19,
+      "bodyTextHash": "7a43dfe9e8f28e44f599ed3e2fae5541ee77ac832218f0358e5435d39f2b3d4b",
+      "bodyTextPrefix": "Explore Saved Route",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
